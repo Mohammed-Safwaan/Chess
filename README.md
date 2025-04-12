@@ -1,6 +1,6 @@
 # Chess
 # Chess Game using Pygame  
-#### Video Demo: <URL HERE>  
+#### Video Demo: <https://youtu.be/RjQ98caC_78>  
 #### Description:
 
 Hello! My name is **Mohammed Safwaan Pasha** from **India**, and this is my final project submission for **CS50**. The project is a fully functional **2-player chess game** built using **Python and the Pygame library**. This chess game replicates the classic board game experience on the computer, featuring turn-based moves, move validation, checkmate detection, move history logging, undo functionality, a timer for each player, and additional visual effects to enhance the gaming experience.
